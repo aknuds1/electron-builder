@@ -15,7 +15,7 @@
     "temp-file": "^3.3.2",
     "fs-extra-p": "^7.0.0",
     "is-ci": "^1.2.1",
-    "stat-mode": "^0.2.2",
+    "stat-mode": "^0.3.0",
     "bluebird-lst": "^1.0.6",
     "chalk": "^2.4.1",
     "debug": "^4.1.0",
